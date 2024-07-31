@@ -1,1 +1,1 @@
-# my_app
+# The basic class management project
